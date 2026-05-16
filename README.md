@@ -1,5 +1,13 @@
 # Program Polimorfisme Senjata
 
+| Keterangan | Detail |
+|---|---|
+| **Nama** | Novry Nanda Kurniaputra |
+| **NIM** | 2410501123 |
+| **Kelas** | D |
+
+---
+
 ## Deskripsi
 Program ini dibuat menggunakan bahasa Java untuk menunjukkan konsep OOP (Object Oriented Programming), khususnya Polimorfisme dan Method Overriding.
 
